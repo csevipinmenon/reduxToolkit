@@ -18,11 +18,11 @@ This project demonstrates state management using Redux Toolkit and basic CRUD op
 - npm
 
 ### Installation
-
+ 
 ```sh
 npm install
 ```
 
 # our website live at
 
-[link]
+[https://csevipinmenon.github.io/reduxToolkit/]
