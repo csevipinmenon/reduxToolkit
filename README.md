@@ -23,6 +23,4 @@ This project demonstrates state management using Redux Toolkit and basic CRUD op
 npm install
 ```
 
-# our website live at
 
-[https://csevipinmenon.github.io/reduxToolkit/]
